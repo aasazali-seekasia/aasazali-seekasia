@@ -7,7 +7,7 @@
 - 📫 How to reach me (for now)
   - [x] for SEEK Asia and SEEK-Jobs folks -> query 'Awangku Muhammad Syazwan bin Awangku Sazali in the **🔍 Search SEEK** search bar on our Slack workspace
   - [ ]  for indie developers/software engineers -> alt.work.awangkusyazwan@outlook.com
-  - [x] for prospective collaborators -> reach out to me here on GitHub by calling me out in a PR :)
+  - [x] for prospective collaborators -> reach out to me here on GitHub by calling me out in a PR \\smiles\\
 
 <!---
 aasazali-seekasia/aasazali-seekasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
