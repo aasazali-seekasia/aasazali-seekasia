@@ -1,7 +1,7 @@
 # Welcome to my SEEK GitHub Profile
 
 - 👋 Hi, I’m @aasazali-seekasia
-- 👀 I’m interested in DevOps (and looking to make my learnings result in the next milestone for the movement) 
+- 👀 I’m interested in DevOps (and looking to make my learnings result in a smaller milestone for the movement, for now) 
 - 🌱 I’m currently learning TS, JS, Go, and other tech stacks that might be of interest at this point in my career
 - 💞️ I’m looking to collaborate on writing documentations 
 - 📫 How to reach me (for now)
