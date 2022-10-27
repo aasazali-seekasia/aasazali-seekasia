@@ -1,4 +1,4 @@
-# Welcome to my SEEK GitHub Profile
+# Welcome Folks
 
 - 👋 Hi, I’m @aasazali-seekasia
 - 👀 I’m interested in DevOps (and looking to make my learnings result in a smaller milestone for the movement, for now) 
@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on writing documentations 
 - 📫 How to reach me (for now)
   - [x] for SEEK Asia and SEEK-Jobs folks -> query 'Awangku Muhammad Syazwan bin Awangku Sazali in the **🔍 Search SEEK** search bar on our Slack workspace
-  - [ ]  for indie developers/software engineers -> alt.work.awangkusyazwan@outlook.com
+  - [ ] for indie developers/software engineers -> alt.work.awangkusyazwan@outlook.com
   - [x] for prospective collaborators -> reach out to me here on GitHub by calling me out in a PR \\smiles\\
 
 <!---
