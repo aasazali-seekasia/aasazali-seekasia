@@ -1,6 +1,6 @@
 #   `Hello World` 🤖 and Welcome Folks 🫂
 
-A little bit about the man behind the keyboard
+A little bit about the fella behind the keyboard
 - 👋 Hi, I’m @aasazali-seekasia
 - 👀 I’m interested in DevOps (and looking to make my learnings result in a smaller milestone for the movement, for now) 
 - 🌱 I’m currently learning TS, JS, Go, and other tech stacks that might be of interest at this point in my career
