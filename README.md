@@ -1,3 +1,6 @@
+https://badgen.net/badge/icon/slack?icon=slack&label
+
+---
 #   `Hello World` 🤖 and Welcome Humans 🫂 on GitHub :octocat:
 
 A little bit about the fella typing away at _ze keyboard_
